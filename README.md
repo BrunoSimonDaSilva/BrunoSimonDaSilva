@@ -28,21 +28,26 @@
 </div>
 
 
-<h2 align="center">
+<h2>
   My Github Stats <img src="https://i.pinimg.com/originals/e0/db/86/e0db8690895407d039b94f75b6244035.gif" width="25">
 </h2>
 <br>
 
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=BrunoSimonDaSilva&show_icons=true&theme=radical&line_height=27" align="left">
+<div>
   <img style="width: 450px;" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoSimonDaSilva&hide=html,css,javaScript,Python,hlsl&theme=radical" align="right" row="top">
-</p>
+</div>
 
-<p  align = "center">
+<div >
+  <img src = "https://github-readme-stats.vercel.app/api?username=BrunoSimonDaSilva&show_icons=true&theme=radical&line_height=27" align="left">
+</div>
+
+<div>
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BrunoSimonDaSilva&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" align="left">
-</p>
-<p align = "center">
+</div>
+
+<div>
  <img src="https://activity-graph.herokuapp.com/graph?username=BrunoSimonDaSilva&theme=redical">
-</p>
+</div>
+
 <hr>
 <p align="center">If you like it, do fork 🍴 and star ⭐</p>
