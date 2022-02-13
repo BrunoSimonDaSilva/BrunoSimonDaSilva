@@ -26,3 +26,23 @@
   <a href = "mailto:bruno144rock@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/bruno-silva-b75202212/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+
+
+<h2 align="center">
+  My Github Stats <img src="https://i.pinimg.com/originals/e0/db/86/e0db8690895407d039b94f75b6244035.gif" width="25">
+</h2>
+ 
+<br>
+<p align = "center">
+  <img  src = "https://github-readme-stats.vercel.app/api?username=BrunoSimonDaSilva&show_icons=true&theme=radical&line_height=27" align="left">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoSimonDaSilva&hide=html,css,javaScript,Python,hlsl&theme=radical" align="right">
+</p><br>
+
+<p align = "center">
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=BrunoSimonDaSilva&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" align="left">
+</p> 
+<p align = "center">
+ <img src="https://activity-graph.herokuapp.com/graph?username=BrunoSimonDaSilva&theme=redical">
+</p> 
+<hr>
+<p align="center">If you like it, do fork 🍴 and star ⭐</p>
