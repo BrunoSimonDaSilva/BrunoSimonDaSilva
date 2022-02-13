@@ -23,7 +23,7 @@
 <h2 align="center">Reach me out on <img src="https://cafecomgeeks.com/wp-content/uploads/2019/08/22391153983a276fe7bf23c9866d71a7-1024x640.jpg" width="25"></h2>
 
 
-  <a href="https://www.instagram.com/bruno144rock/?hl=pt-br" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-                     badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/bruno144rock/?hl=pt-br" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-                     badge&logo=instagram&logoColor=white" target="_blank"  width="120"></a>
   <a href = "mailto:bruno144rock@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/bruno-silva-b75202212/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
