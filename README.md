@@ -34,9 +34,9 @@
 <br>
 
 <div align="center">
- <img height="130em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoSimonDaSilva&layout=compact&langs_count=7&theme=radical">
+ <img height="100%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoSimonDaSilva&layout=compact&langs_count=7&theme=radical">
   <a href="https://github.com/BrunoSimonDaSilva">
-  <img height="180em" align="left" src="https://github-readme-stats.vercel.app/api?username=BrunoSimonDaSilva&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" align="left" src="https://github-readme-stats.vercel.app/api?username=BrunoSimonDaSilva&show_icons=true&theme=radical&include_all_commits=true&count_private=true">
 </div>
 
  <div>
