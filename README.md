@@ -34,17 +34,17 @@
 <br>
 
 <div align="center">
+ <img height="130em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoSimonDaSilva&layout=compact&langs_count=7&theme=radical">
   <a href="https://github.com/BrunoSimonDaSilva">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrunoSimonDaSilva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoSimonDaSilva&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" align="left" src="https://github-readme-stats.vercel.app/api?username=BrunoSimonDaSilva&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
 </div>
 
-
-<div style="position: absolute; width: 395px; height: 157px; left: 18px; top: 238px;">
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=BrunoSimonDaSilva&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" align="left">
+ <div>
+<img align="left" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=BrunoSimonDaSilva&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" >
 </div>
-
-<div style="width: 680px; height: 229px; left: 17px; top: 405px;">
+  
+  
+<div>
  <img src="https://activity-graph.herokuapp.com/graph?username=BrunoSimonDaSilva&theme=redical">
 </div>
 
