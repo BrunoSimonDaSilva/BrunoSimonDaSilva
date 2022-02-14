@@ -33,15 +33,15 @@
 </h2>
 <br>
 
-<div>
-  <img style="width: 300px;" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoSimonDaSilva&hide=html,css,javaScript,Python,hlsl&theme=radical" align="right" row="top">
+<div style="width: 300px; top=100%" align="right">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoSimonDaSilva&hide=html,css,javaScript,Python,hlsl&theme=radical" align="right">
 </div>
 
-<div >
-  <img style="top: 73px" src = "https://github-readme-stats.vercel.app/api?username=BrunoSimonDaSilva&show_icons=true&theme=radical&line_height=27" align="left" >
+<div style="top: 100%; margin=20px" align="left">
+  <img src = "https://github-readme-stats.vercel.app/api?username=BrunoSimonDaSilva&show_icons=true&theme=radical&line_height=27" align="left" >
 </div>
 
-<div>
+<div style="top: 50px;" align="left">
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BrunoSimonDaSilva&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" align="left">
 </div>
 
