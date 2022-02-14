@@ -38,7 +38,7 @@
 </div>
 
 <div >
-  <img src = "https://github-readme-stats.vercel.app/api?username=BrunoSimonDaSilva&show_icons=true&theme=radical&line_height=27" align="left">
+  <img src = "https://github-readme-stats.vercel.app/api?username=BrunoSimonDaSilva&show_icons=true&theme=radical&line_height=27" align="left" row="top">
 </div>
 
 <div>
