@@ -27,27 +27,28 @@
   <a href="https://www.linkedin.com/in/bruno-silva-b75202212/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-
+<div class="Stats">
 <h2>
   My Github Stats <img src="https://i.pinimg.com/originals/e0/db/86/e0db8690895407d039b94f75b6244035.gif" width="25">
 </h2>
 <br>
 
-<div style="width: 300px; top=100%" align="right">
+<div style="position: absolute; width: 239px; height: 330px; left: 458px; top: 65px;">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoSimonDaSilva&hide=html,css,javaScript,Python,hlsl&theme=radical" align="right">
 </div>
 
-<div style="top: 100%; margin=20px" align="left">
+<div style="position: absolute; width: 394px; height: 164px; left: 20px; top: 65px; background: #C4C4C4;" align="left">
   <img src = "https://github-readme-stats.vercel.app/api?username=BrunoSimonDaSilva&show_icons=true&theme=radical&line_height=27" align="left" >
 </div>
 
-<div style="top: 50px;" align="left">
+<div style="position: absolute; width: 395px; height: 157px; left: 18px; top: 238px;">
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BrunoSimonDaSilva&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" align="left">
 </div>
 
-<div>
+<div style="width: 680px; height: 229px; left: 17px; top: 405px;">
  <img src="https://activity-graph.herokuapp.com/graph?username=BrunoSimonDaSilva&theme=redical">
 </div>
 
 <hr>
 <p align="center">If you like it, do fork 🍴 and star ⭐</p>
+</div>
