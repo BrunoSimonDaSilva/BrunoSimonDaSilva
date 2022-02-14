@@ -42,7 +42,7 @@
 </div>
 
  <div>
-<img align="left" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=BrunoSimonDaSilva&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" >
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=BrunoSimonDaSilva&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" >
 </div>
   
   
