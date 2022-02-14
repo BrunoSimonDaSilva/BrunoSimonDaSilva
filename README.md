@@ -1,3 +1,4 @@
+
 <p align="center">
 <img src="https://github.com/BrunoSimonDaSilva/BrunoSimonDaSilva/blob/main/digital-art-nature-landscape-video-games-wallpaper-preview.jpg" />
 </p align="center">
@@ -37,15 +38,15 @@
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoSimonDaSilva&hide=html,css,javaScript,Python,hlsl&theme=radical" align="right">
 </div>
 
-<div style="position: absolute; width: 394px; height: 164px; left: 20px; top: 65px; background: #C4C4C4;" align="left">
+<div style="left: 20px; top: 65px;">
   <img src = "https://github-readme-stats.vercel.app/api?username=BrunoSimonDaSilva&show_icons=true&theme=radical&line_height=27" align="left" >
 </div>
 
-<div style="position: absolute; width: 395px; height: 157px; left: 18px; top: 238px;">
+<div>
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BrunoSimonDaSilva&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" align="left">
 </div>
 
-<div style="width: 680px; height: 229px; left: 17px; top: 405px;">
+<div>
  <img src="https://activity-graph.herokuapp.com/graph?username=BrunoSimonDaSilva&theme=redical">
 </div>
 
