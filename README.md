@@ -26,12 +26,12 @@
   <a href = "mailto:bruno144rock@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/bruno-silva-b75202212/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-  <img align="right" style="height: 85px" src="https://github.com/BrunoSimonDaSilva/BrunoSimonDaSilva/blob/main/download20220201225907.png"><br>
+  <img align="right" style="height: 100px" src="https://github.com/BrunoSimonDaSilva/BrunoSimonDaSilva/blob/main/download20220201225907.png"><br><br><br>
 
 
 
 <div class="Stats">
-<h2>
+<h2 align="center">
   My Github Stats <img src="https://i.pinimg.com/originals/e0/db/86/e0db8690895407d039b94f75b6244035.gif" width="25">
 </h2>
 <br>
