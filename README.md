@@ -22,10 +22,12 @@
 
 <div align="center">
 <h2 align="center">Reach me out on <img src="https://cafecomgeeks.com/wp-content/uploads/2019/08/22391153983a276fe7bf23c9866d71a7-1024x640.jpg" width="25"></h2>
+  <img align="right" style="height: 85px" src="https://github.com/BrunoSimonDaSilva/BrunoSimonDaSilva/blob/main/download20220201225907.png">
   <a href="https://www.instagram.com/bruno144rock/?hl=pt-br" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-                     badge&logo=instagram&logoColor=white" target="_blank"  width="120"></a>
   <a href = "mailto:bruno144rock@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/bruno-silva-b75202212/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+
 
 <div class="Stats">
 <h2>
@@ -50,6 +52,9 @@
  <img src="https://activity-graph.herokuapp.com/graph?username=BrunoSimonDaSilva&theme=redical">
 </div>
 
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+
+ 
 <hr>
 <p align="center">If you like it, do fork 🍴 and star ⭐</p>
 </div>
