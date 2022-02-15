@@ -52,8 +52,6 @@
  <img src="https://activity-graph.herokuapp.com/graph?username=BrunoSimonDaSilva&theme=redical">
 </div>
 
-![Snake animation](https://github.com/BrunoSimonDaSilva/BrunoSimonDaSilva/blob/main/cobrinha.yml)
-
  
 <hr>
 <p align="center">If you like it, do fork 🍴 and star ⭐</p>
