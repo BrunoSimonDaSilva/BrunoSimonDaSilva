@@ -53,6 +53,8 @@
  <img src="https://activity-graph.herokuapp.com/graph?username=BrunoSimonDaSilva&theme=redical">
 </div>
  
+![Snake animation](https://github.com/BrunoSimonDaSilva/BrunoSimonDaSilva/blob/output/github-contribution-grid-snake.svg)
+
  
 <hr>
 <p align="center">If you like it, do fork 🍴 and star ⭐</p>
