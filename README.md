@@ -42,20 +42,21 @@ sou fascinado por computação desde criança e atualmente tenho me dedicado a m
 <br>
 
 <div align="center">
- <img height="100%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoSimonDaSilva&layout=compact&langs_count=7&theme=radical">
+ <img height="100%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoSimonDaSilva&layout=compact&langs_count=7&theme=dracula">
   <a href="https://github.com/BrunoSimonDaSilva">
 </div>
+ 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrunoSimonDaSilva&show_icons=true&theme=radical&include_all_commits=true&count_private=true">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrunoSimonDaSilva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
 </div>
 
  <div>
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=BrunoSimonDaSilva&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" >
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=BrunoSimonDaSilva&show_icons=true&locale=en&layout=compact&theme=dracula&line_height=0" >
 </div>
   
   
 <div>
- <img src="https://activity-graph.herokuapp.com/graph?username=BrunoSimonDaSilva&theme=redical">
+ <img src="https://activity-graph.herokuapp.com/graph?username=BrunoSimonDaSilva&theme=dracula">
 </div>
  
 ![Snake animation](https://github.com/BrunoSimonDaSilva/BrunoSimonDaSilva/blob/output/github-contribution-grid-snake.svg)
