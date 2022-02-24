@@ -42,8 +42,7 @@ sou fascinado por computação desde criança e atualmente tenho me dedicado a m
 <br>
 
 <div align="center">
- <img height="100%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoSimonDaSilva&layout=compact&langs_count=7&theme=radical">
-  <a href="https://github.com/BrunoSimonDaSilva">
+ <img height="100%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoSimonDaSilva&theme=radical">
 </div>
  
 <div>
