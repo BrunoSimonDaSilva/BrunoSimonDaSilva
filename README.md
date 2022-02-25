@@ -56,7 +56,7 @@ Inglês básico(escrita, audição e fala)
 <br>
 
 <div align="center">
- <img height="100%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoSimonDaSilva&theme=radical">
+ <img height="99%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoSimonDaSilva&theme=radical">
 </div>
  
 <div>
