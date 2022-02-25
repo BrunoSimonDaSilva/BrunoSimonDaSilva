@@ -11,6 +11,8 @@
 </p><br>
 
 ```
+Nome: Bruno Simon Da Silva
+idade: 21 anos
 Estudante de TI - Escola profissionalizante Santo Agostinho, 
 sou fascinado por computação desde criança e atualmente tenho me dedicado a me tornar um dev Back-end.
 ```
@@ -28,16 +30,28 @@ sou fascinado por computação desde criança e atualmente tenho me dedicado a m
 <div align="center">
 <h2 align="center">Contatos <img src="https://cafecomgeeks.com/wp-content/uploads/2019/08/22391153983a276fe7bf23c9866d71a7-1024x640.jpg" width="25"></h2>
   <a href="https://www.instagram.com/bruno144rock/?hl=pt-br" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-                     badge&logo=instagram&logoColor=white" target="_blank"  width="120"></a>
-  <a href = "mailto:bruno144rock@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ <a href = "mailto:bruno144rock@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/bruno-silva-b75202212/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-  <img align="right" style="height: 100px" src="https://github.com/BrunoSimonDaSilva/BrunoSimonDaSilva/blob/main/download20220201225907.png"><br><br><br>
+<img align="right" style="height: 100px" src="https://github.com/BrunoSimonDaSilva/BrunoSimonDaSilva/blob/main/download20220201225907.png"><br><br><br>
 
+<div class="conhecimentos">
+<h2 align="center">
+  Conhecimentos Gerais <img src="https://64.media.tumblr.com/b3a9a751029fd75150779f401e892e61/716978f8319e234e-4e/s500x750/4a0128411b43dabdc4bfd58d2a458880e045ae5b.jpg" width="25">
+</h2>
+</div><br>
 
+```
+Lógica de Programação.
+Programação orientada a objeto.
+Conhecimento em redes(clipagem, instalações, endereçamento ipv4/ipv6).
+Suporte e manutenção de computadores.
+Inglês básico(escrita, audição e fala)
+``` 
 
 <div class="Stats">
 <h2 align="center">
-  Estatos do Github <img src="https://i.pinimg.com/originals/e0/db/86/e0db8690895407d039b94f75b6244035.gif" width="25">
+  Ações no Github <img src="https://i.pinimg.com/originals/e0/db/86/e0db8690895407d039b94f75b6244035.gif" width="25">
 </h2>
 <br>
 
