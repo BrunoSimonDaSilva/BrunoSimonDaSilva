@@ -1,3 +1,6 @@
+ <img src="https://github.com/BrunoSimonDaSilva/BrunoSimonDaSilva/blob/main/1.PNG"/> 
+
+
 <p align="center">
 <img src="https://github.com/BrunoSimonDaSilva/BrunoSimonDaSilva/blob/main/digital-art-nature-landscape-video-games-wallpaper-preview.jpg" />
 </p align="center"><br>
@@ -78,3 +81,6 @@ Inglês básico(escrita, audição e fala)
 <hr>
 <p align="center">If you like it, do fork 🍴 and star ⭐</p>
 </div>
+
+
+ <img src="https://github.com/BrunoSimonDaSilva/BrunoSimonDaSilva/blob/main/2.PNG"/> 
