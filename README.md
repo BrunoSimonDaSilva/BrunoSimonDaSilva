@@ -27,8 +27,8 @@ sou fascinado por computação desde criança e atualmente tenho me dedicado a m
   <img alt="Bruno-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img alt="Bruno-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img alt="Bruno-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img alt="Bruno-Python" height="30" width="40" src="https://avatars.githubusercontent.com/u/14101776?s=280&v=4">
-  <img alt="Bruno-Python" height="30" width="40" src="https://user-images.githubusercontent.com/26507463/53453892-49908900-3a04-11e9-9dce-77ed3d694326.png">
+  <img alt="Bruno-Python" height="30" width="40" src="https://raw.githubusercontent.com/dnfield/flutter_svg/7d374d7107561cbd906d7c0ca26fef02cc01e7c8/example/assets/flutter_logo.svg?sanitize=true">
+  <img alt="Bruno-Python" height="30" width="40" src="https://iconape.com/wp-content/files/pa/370777/svg/370777.svg">
   
 </div>
 
